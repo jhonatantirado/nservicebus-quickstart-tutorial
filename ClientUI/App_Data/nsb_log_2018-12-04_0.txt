@@ -1,0 +1,18 @@
+﻿2018-12-04 15:04:50.772 INFO  DefaultFactory Logging to 'D:\JTIRADO\MAESTRIA\tutorials-quickstart-vs2015\ClientUI\App_Data\' with level Info
+2018-12-04 15:04:51.130 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-12-04'.
+
+2018-12-04 15:06:20.171 INFO  DefaultFactory Logging to 'D:\JTIRADO\MAESTRIA\tutorials-quickstart-vs2015\ClientUI\App_Data\' with level Info
+2018-12-04 15:06:20.447 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-12-04'.
+
+2018-12-04 15:09:07.929 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2018-12-04 15:09:07.945 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2018-12-04 15:09:18.219 INFO  DefaultFactory Logging to 'D:\JTIRADO\MAESTRIA\tutorials-quickstart-vs2015\ClientUI\App_Data\' with level Info
+2018-12-04 15:09:18.472 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-12-04'.
+
+2018-12-04 15:11:00.576 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2018-12-04 15:11:00.595 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
+2018-12-04 15:46:33.466 INFO  DefaultFactory Logging to 'D:\JTIRADO\MAESTRIA\tutorials-quickstart-vs2015\ClientUI\App_Data\' with level Info
+2018-12-04 15:46:33.691 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-12-04'.
+
+2018-12-04 15:47:58.694 INFO  NServiceBus.RunningEndpointInstance Initiating shutdown.
+2018-12-04 15:47:58.712 INFO  NServiceBus.RunningEndpointInstance Shutdown complete.
